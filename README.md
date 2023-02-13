@@ -2,8 +2,8 @@
 
 <div align=center>
 Enable Tech Stack
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%KimJunpyo)](https://hits.seeyoufarm.com)
+  <img src=(https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) />
  </div>
 
 ![KimJunpyo's github stats](https://github-readme-stats.vercel.app/api?username=KimJunpyo&show_icons=true)
