@@ -17,9 +17,9 @@
 </div>
 
 <div>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJunpyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJunpyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" style="display: block"/>
   </a>
- </div>
- <div>
+</div>
+<div>
   <a href="https://velog.io/@player1552"><img src=https://velog-readme-stats.vercel.app/api/badge?name=kimjunpyo style="display:inline"></a>
 </div>
