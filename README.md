@@ -1,5 +1,5 @@
 
-<div align=center style="font-size: 20px; font-weight: bold">📚사용해본 기술 및 언어들📚</div>
+<div align=center style="font-size: 20px; font-weight: bold"><h3>📚사용해본 기술 및 언어들📚<h3></div>
 
 <div align=center style="display: flex; justify-content:space-around; flex-wrap: wrap">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
