@@ -1,3 +1,5 @@
+<div align=center><img src="https://user-images.githubusercontent.com/100808381/227102345-937da5ec-9edf-4539-b0da-cc0ed1df6bc7.jpg" /></div>
+
 
 <div align=center style="font-size: 20px; font-weight: bold"><h3>📚사용해본 기술 및 언어들📚<h3></div>
 
