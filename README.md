@@ -1,7 +1,7 @@
 <div align=center><img src="https://user-images.githubusercontent.com/100808381/227102345-937da5ec-9edf-4539-b0da-cc0ed1df6bc7.jpg" /></div>
 
 
-<div align=center style="font-size: 20px; font-weight: bold"><h3>📚사용해본 기술 및 언어들📚<h3></div>
+<div align=center style="font-size: 20px; font-weight: bold; margin-top: 50px"><h3>📚사용해본 기술 및 언어들📚<h3></div>
 
 <div align=center style="display: flex; justify-content:space-around; flex-wrap: wrap; padding: 200px">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
