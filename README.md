@@ -7,7 +7,7 @@
 <br />
 <br />
 <br />
-<div align=center style="font-size: 20px; font-weight: bold"><h3>📚사용해본 기술 및 언어들📚<h3></div>
+<div align=center style="font-size: 20px; font-weight: bold"><h3>📚Use Experience📚<h3></div>
 
 <div align=center style="display: flex; justify-content:space-around; flex-wrap: wrap;">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
@@ -17,6 +17,10 @@
  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white" />
  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=white" />
  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white" />
+ <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
+ <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />
+ <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white" />
 </div>
 <br />
 <br />
