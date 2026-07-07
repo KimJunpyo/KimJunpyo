@@ -81,7 +81,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,expo&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs&perline=6" />
 
 <br />
 <br />
